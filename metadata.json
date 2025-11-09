@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat Interface",
+  "description": "A modern web-based chat interface to interact with the Gemini API, providing a seamless conversational experience and demonstrating the correct usage of the Gemini Chat API.",
+  "requestFramePermissions": []
+}
